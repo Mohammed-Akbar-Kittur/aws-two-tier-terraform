@@ -4,6 +4,8 @@
 > **Account:** Mohammed Akbar Kittur (844274145793)
 
 ## 🏗️ Architecture Diagram
+<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/6ea0dd60-598d-4161-94db-35c84824573e" />
+
 
 ## 📸 Infrastructure Proofs (Text + Screenshots)
 
